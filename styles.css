@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit&display=swap');
+
+body{
+    background-color: hsl(212, 45%, 89%);
+    width: 1440px;
+}
+
+.container{
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 30px;
+    height: 460px;
+    width: 305px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50%;
+    margin-bottom: 50%;
+    padding: 15px;
+}
+img{
+    border-radius: 10px;
+    height: 300px;
+    width: 300px;
+}
+
+.center{
+    top: 50%;
+}
+
+.title{
+    font-weight: 700;
+    font-style: bold;
+    font-family: Outfit, Arial;
+    display: block;
+    font-size: 22px;
+    margin-top: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    text-align: center;
+}
+
+.p{
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 15px;
+    width: 80%;
+    margin-top: 15px;
+    text-align: center;
+    color:hsl(220, 15%, 55%);
+    font-weight: 400px;
+    font-family: Outfit, Arial;
+}
